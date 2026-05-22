@@ -40,7 +40,7 @@ export default function Hero() {
           style={{ animationDelay: "100ms" }}
         >
           <span className="bg-gradient-to-br from-neutral-50 via-neutral-200 to-neutral-500 bg-clip-text text-transparent">
-            Richard Gonzalez
+            Richard González
           </span>
         </h1>
 

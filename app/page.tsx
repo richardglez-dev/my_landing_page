@@ -15,7 +15,7 @@ export default function Home() {
         <Contact />
       </main>
       <footer className="border-t border-neutral-800/50 px-6 py-8 text-center text-sm text-neutral-600">
-        <p>Richard Gonzalez © 2026</p>
+        <p>Richard González © 2026</p>
       </footer>
     </>
   );

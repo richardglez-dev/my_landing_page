@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Richard Gonzalez | Full Stack Developer",
+  title: "Richard González | Full Stack Developer",
   description:
     "Desarrollador Full Stack & Mobile especializado en React Native, Next.js y Node.js.",
 };

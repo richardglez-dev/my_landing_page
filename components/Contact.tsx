@@ -1,8 +1,8 @@
 const contactLinks = [
   {
     label: "Email",
-    value: "gonzalezbenitez627@gmail.com",
-    href: "mailto:gonzalezbenitez627@gmail.com",
+    value: "richard01gonzalez@outlook.com",
+    href: "mailto:richard01gonzalez@outlook.com",
     external: false,
   },
   {

@@ -9,7 +9,7 @@ export default function Navbar() {
     <header className="fixed left-0 right-0 top-0 z-50 border-b border-neutral-800/40 bg-neutral-950/80 backdrop-blur-md">
       <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-4">
         <span className="text-sm font-medium text-neutral-300">
-          Richard Gonzalez
+          Richard González
         </span>
         <nav className="flex items-center gap-6">
           {links.map((link) => (

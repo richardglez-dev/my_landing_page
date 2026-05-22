@@ -6,6 +6,9 @@ const technologies = [
   { name: "MySQL", color: "bg-orange-500" },
   { name: "SQL Server", color: "bg-red-500" },
   { name: "Firebase", color: "bg-amber-400" },
+  { name: "PHP", color: "bg-amber-400" },
+  { name: "ETL & Data Warehouse", color: "bg-amber-400" },
+
 ];
 
 export default function Technologies() {
