@@ -1,22 +1,35 @@
 const projects = [
   {
-    name: "AppInmo",
+    name: "Aplicación para administración Inmobiliaria",
     description:
       "Aplicación móvil para gestión inmobiliaria. Administra propiedades, clientes y contratos desde el celular.",
-    tech: ["React Native", "Firebase", "TypeScript"],
+    tech: ["React Native", "Node.js","TypeScript", "Firebase", "MySQL"],
   },
   {
-    name: "App Gastos",
+    name: "Aplicativo para gestión de gastos",
     description:
       "Control de gastos personales con categorías, reportes visuales y sincronización en la nube.",
-    tech: ["React Native", "Node.js", "MySQL"],
+    tech: ["React Native", "Node.js", "MySQL", "Firebase"],
   },
   {
     name: "Sistemas Empresariales",
     description:
       "Sistemas de gestión para empresas con módulos de inventario, facturación y reportería avanzada.",
-    tech: ["Next.js", "SQL Server", "TypeScript"],
+    tech: ["PHP", "SQL Server","MySQL"],
   },
+  {
+    name: "Landing Page",
+    description:
+      "Landing page moderna y responsiva desarrollada para presentar productos y servicios con un diseño atractivo y optimizado.",
+    tech: ["Next.js", "TypeScript", "Tailwind CSS"],
+  },
+    {
+  name: "Páginas Web",
+  description:
+    "Desarrollo de páginas web modernas, responsivas y optimizadas para brindar una experiencia profesional, rápida y atractiva en cualquier dispositivo.",
+  tech: [
+    "Next.js","React","TypeScript","Tailwind CSS","HTML","CSS","JavaScript"],
+   },
 ];
 
 export default function Projects() {
