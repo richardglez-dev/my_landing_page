@@ -21,7 +21,7 @@ const projects = [
     name: "Landing Page",
     description:
       "Landing page moderna y responsiva desarrollada para presentar productos y servicios con un diseño atractivo y optimizado.",
-    tech: ["Next.js", "TypeScript", "Tailwind CSS"],
+    tech: ["Next.js","React","TypeScript","Tailwind CSS","HTML","CSS","JavaScript"],
   },
     {
   name: "Páginas Web",
