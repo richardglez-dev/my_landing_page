@@ -64,7 +64,7 @@ export default function Hero() {
           style={{ animationDelay: "400ms" }}
         >
           <a
-            href="https://github.com/richardglez"
+            href="https://github.com/richardglez-dev"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-lg border border-neutral-700 bg-neutral-900 px-5 py-2.5 text-sm font-medium text-neutral-200 transition-all hover:border-neutral-500 hover:bg-neutral-800 hover:text-white"
