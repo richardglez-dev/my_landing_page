@@ -14,7 +14,7 @@ const contactLinks = [
   {
     label: "GitHub",
     value: "github.com/richardglez",
-    href: "https://github.com/richardglez",
+    href: "https://github.com/richardglez-dev",
     external: true,
   },
 ];
