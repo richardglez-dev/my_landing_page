@@ -30,6 +30,14 @@ const projects = [
   tech: [
     "Next.js","React","TypeScript","Tailwind CSS","HTML","CSS","JavaScript"],
    },
+     {
+  name: "Aplicación para agendamientos",
+  description:
+    "Control de agendamientos de clientes, con recordatorios y notificaciones.",
+  tech: [
+    "React Native","TypeScript"],
+   },
+
 ];
 
 export default function Projects() {
