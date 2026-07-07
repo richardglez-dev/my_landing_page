@@ -35,7 +35,7 @@ const projects = [
   description:
     "Control de agendamientos de clientes, con recordatorios y notificaciones.",
   tech: [
-    "React Native","TypeScript"],
+    "React Native","TypeScript", "Node.js","MySQL","Firebase"],
    },
 
 ];
