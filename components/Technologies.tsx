@@ -2,13 +2,13 @@ const technologies = [
   { name: "React Native", color: "bg-cyan-400" },
   { name: "Next.js", color: "bg-neutral-100" },
   { name: "Node.js", color: "bg-green-500" },
+  { name: "JavaScript", color: "bg-yellow-400" },
   { name: "TypeScript", color: "bg-blue-500" },
   { name: "MySQL", color: "bg-orange-500" },
   { name: "SQL Server", color: "bg-red-500" },
   { name: "Firebase", color: "bg-amber-400" },
-  { name: "PHP", color: "bg-amber-400" },
-  { name: "ETL & Data Warehouse", color: "bg-amber-400" },
-
+  { name: "PHP", color: "bg-purple-500" },
+  { name: "ETL & Data Warehouse", color: "bg-pink-500" },
 ];
 
 export default function Technologies() {
